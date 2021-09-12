@@ -21,7 +21,7 @@ public class Registration {
             if(email.contains(" ")){
                 System.out.println("No space in between email.");
             }else {
-                email = email;
+               // email = email;
                 System.out.println(email);
             }
         } else {
